@@ -76,7 +76,10 @@
     .navbar ul{
         display: none;
     }
-    .navbar button img{
+    /* .navbar button img{
         width: 12px;
-    }
+    } */
+   .navbar button{
+        display: none;
+   }
 }
